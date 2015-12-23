@@ -1,0 +1,23 @@
+{
+  "name": "suburi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabeliwo-suburi/eslint-suburi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nabeliwo-suburi/eslint-suburi/issues"
+  },
+  "homepage": "https://github.com/nabeliwo-suburi/eslint-suburi#readme",
+  "devDependencies": {
+    "babel-eslint": "^4.1.6",
+    "eslint": "^1.10.3"
+  }
+}
