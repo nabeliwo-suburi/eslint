@@ -157,7 +157,7 @@
     "prefer-const": 1,
     "prefer-spread": 1,
     "prefer-reflect": 0,
-    "prefer-template": 1,
+    "prefer-template": 1, // テンプレートリテラルを使う
     "require-yield": 2
   },
   "env": {
